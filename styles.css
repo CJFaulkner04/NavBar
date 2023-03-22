@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+}
+header{
+    margin: 0;
+    color: white;
+    background-color: black;
+    line-height: 500%;
+    
+}
+header h1{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: green;
+    width: 10%;
+    float: left;
+}
+nav ul{
+    float:left;
+    text-align: center;
+    width: 50%;
+    margin: 0;
+}
+ nav ul li{
+    display:inline-block;
+    padding-right: 50px;
+    padding-left: 20px;
+
+}
+.bar{
+    background-color: white;
+    width: 125px;
+    height: 20px;
+    margin-top: 30px;
+    margin-right: 20px ;
+    float: left;
+    border-radius: 5px;
+}
+.checkout{
+    float: right;
+    margin:0;
+    width: 20%;
+    height: 80px;
+    
+}
+ p{
+    margin:0;
+    font-size: 12px;
+}
+
+
